@@ -1,0 +1,4 @@
+Execute the files in Order CRUD order to get best results.
+
+Auth-> Create -> Get -> Update -> Delete;
+ this ensures the flow and prevents Fixture errors
